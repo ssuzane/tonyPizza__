@@ -1,0 +1,10 @@
+body{
+    background-color: #FFDAB9;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    height: 100vh;
+}
+
